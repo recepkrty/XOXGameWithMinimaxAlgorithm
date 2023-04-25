@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>_152120191021_Recep_Kırtay_Lab4</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="testScript">
+      <HintPath>..\..\..\..\Desktop\dersler\oop lab\Lab4\testScript.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

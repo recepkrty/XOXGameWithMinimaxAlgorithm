@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "152120191021_Recep_Kırtay_Lab4/1.0.0": {
+        "dependencies": {
+          "testScript": "1.0.0.0"
+        },
+        "runtime": {
+          "152120191021_Recep_Kırtay_Lab4.dll": {}
+        }
+      },
+      "testScript/1.0.0.0": {
+        "runtime": {
+          "testScript.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "152120191021_Recep_Kırtay_Lab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "testScript/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
